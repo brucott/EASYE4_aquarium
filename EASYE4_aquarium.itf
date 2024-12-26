@@ -1,0 +1,3 @@
+Name	Type	Address
+M001_M016[1..16]	BIT	R1001.0
+MW010	WORD	R1010
